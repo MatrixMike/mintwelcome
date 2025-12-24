@@ -914,7 +914,7 @@
                             <property name="visible">True</property>
                             <property name="can-focus">False</property>
                             <property name="halign">center</property>
-                            <property name="icon-name">xplayer</property>
+                            <property name="icon-name">applications-multimedia</property>
                             <property name="icon_size">6</property>
                           </object>
                           <packing>
